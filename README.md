@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
